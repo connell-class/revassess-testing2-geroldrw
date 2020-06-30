@@ -4,6 +4,6 @@ git:
     depth: false
 script: ./ci.sh
 notifications:
-    email:ryan.gerold@gmail.com
+    email: ryan.gerold@gmail.com
     #enter your email address below
         - 
