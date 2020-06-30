@@ -20,5 +20,5 @@ public class SumOverArray {
 			return 0;
 		}
 		
-	}
+	}//test
 }
